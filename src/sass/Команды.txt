@@ -1,0 +1,5 @@
+cd /D E:\myproject
+
+gulp sass - scss в css
+
+gulp minify-css - минимизация файла

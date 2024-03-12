@@ -1,0 +1,27 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "yes",
+  "scripts": {
+    "test": "yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "yes",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.68.0"
+  },
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}

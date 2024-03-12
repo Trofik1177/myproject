@@ -1,0 +1,24 @@
+.container {
+  width: 1000px;
+  height: 1000px;
+  position: relative; }
+  .container .corner {
+    width: 200px;
+    height: 200px;
+    position: absolute; }
+  .container .corner:nth-child(1) {
+    top: 0;
+    left: 0;
+    background-color: red; }
+  .container .corner:nth-child(2) {
+    top: 0;
+    right: 0;
+    background-color: green; }
+  .container .corner:nth-child(3) {
+    bottom: 0;
+    left: 0;
+    background-color: blue; }
+  .container .corner:nth-child(4) {
+    bottom: 0;
+    right: 0;
+    background-color: yellow; }
